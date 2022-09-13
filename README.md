@@ -70,5 +70,3 @@ this separate curves as input of our model which $`θ_{Cs}`$ is its output.
 
 * [curve tracing](Neural Network Techniques/curve tracing/Curve_Tracing.ipynb) - curve tracing algorithm 
 
-
-# Cherenkov-in-the-Sky
