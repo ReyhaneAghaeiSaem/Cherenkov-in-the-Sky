@@ -7,7 +7,7 @@ cones due to the speed of propagation of quantum fluctuations
 (hereinafter called Cs) and the cherenkov effect as a result.
 Cosmic Microwave Background (CMB) remaining from the era when the universe was young, could
 be used as a snapshot of the whole universe which involves
-these traces.However CMB is too dense to look forward special
+these traces. However CMB is too dense to look forward special
 shapes on it without the help of machine learning’s methods.On
 the first step of this project we are going to portrait the general
 shapes of the traces on the CMB, and find a proper method of
